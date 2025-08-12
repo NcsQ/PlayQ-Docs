@@ -22,7 +22,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'thusitha-bandara', // Usually your GitHub org/user name.
+  organizationName: 'NcsQ', // Usually your GitHub org/user name.
   projectName: 'PlayQ-Docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
