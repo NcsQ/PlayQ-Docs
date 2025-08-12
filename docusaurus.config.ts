@@ -74,12 +74,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    // image: 'img/docusaurus-social-card.jpg',
     navbar: {
       // title: 'PlayQ',
       logo: {
         alt: 'PlayQ Logo',
-        src: 'img/PlayQ.png',
+        src: 'img/playq.png',
       },
       items: [
         {
