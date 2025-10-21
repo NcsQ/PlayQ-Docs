@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Installation
+
 
 ## Setup:
 1. Clone or download the project
@@ -20,3 +20,8 @@ sidebar_position: 1
     ```
     npm run test --TAGS="@test or @add"
     ```
+
+
+## Test Runner Options
+
+sample text
