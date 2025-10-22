@@ -88,6 +88,11 @@ const config: Config = {
           position: 'left',
           label: 'Docs',
         },
+         {
+          to: '/sessions',
+          position: 'left',
+          label: 'Sessions',
+        },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
