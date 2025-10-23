@@ -20,7 +20,3 @@ sample text
 ## Supported Browsers & Environments
 
 sample text
-
-## Project Structure Overview
-
-sample text
