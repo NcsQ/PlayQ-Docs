@@ -79,3 +79,31 @@ apiTest: {
     timeout: 10000       // API request timeout (ms)
 }
 ```
+
+### Additional Features
+
+#### Pattern IQ
+ - enable: Enable/disable Pattern IQ feature
+ - config: Pattern configuration name
+ - retryInterval: Retry interval for pattern matching
+ - retryTimeout: Timeout for pattern matching
+
+#### Smart AI
+ - enable: Enable/disable Smart AI features
+ - consoleLog: Enable console logging
+ - resolve: Resolution strategy ("smart" | "always")
+
+#### Addons
+ - D365 CRM integration
+ - D365 FinOps integration
+
+#### Reporting
+ - Allure reporting configuration
+ - Single file report option
+
+#### Feature Flags
+ - Beta UI features
+ - Mock backend toggle
+
+#### Language Support
+ - Supported languages: ["en", "fr", "es"]
