@@ -11,7 +11,7 @@ In folowing test 'first test', the actions performed are:
     2. Navigate to the 'https://ecommerce-playground.lambdatest.io/'
     3. Verify the page title is 'Your Store'
 
-```
+```typescript
 import { test } from '@setup/playwrightTest';
 import * as webActions from '@src/helper/actions/webActions';
 
