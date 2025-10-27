@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 To start working with the PlayQ framework, some installations need to be completed.
