@@ -151,6 +151,23 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+
+  plugins: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        // baseUrl: '/PlayQ-Docs/',
+        indexDocs: true,
+        indexPages: true,
+        language: ["en"],
+        searchBarPosition: "right",
+        searchResultLimits: 8,
+        highlightSearchTermsOnTargetPage: true,
+        searchResultContextMaxLength: 50,
+      }),
+    ],
+  ],
 };
 
 export default config;
